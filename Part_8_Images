@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML Images</title>
+    </head>
+    <body>
+        <img src="pics/Googlefinal1.png" alt="google+" with="100" height="100" align="right" border="5" />
+        <img src="pics/twitter-logo.png" alt="google+" with="70" height="70" border="5" />
+        <img src="pics/youtube.png" alt="google+" with="100" height="100" border="5" />
+    </body>
+</html>
