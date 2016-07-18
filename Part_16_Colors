@@ -1,0 +1,48 @@
+1. Using color names example:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Colors Application</title>
+    </head>
+    <body text="pink" bgcolor="grey">
+        <h3>HTML Colors Application</h3>
+        <table bgcolor="blue">
+            <tr>
+                <td>
+                    Hello YouTubers, welcome to software developer channel!<br />
+                    Here you learn free tutorials in programming.
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+2. Using rgb values example:
+
+<body text="rgb(255,0,255)" bgcolor="rgb(192,192,192)">
+        <h3>HTML Colors Application</h3>
+        <table bgcolor="rgb(0,0,255)">
+            <tr>
+                <td>
+                    Hello YouTubers, welcome to software developer channel!<br />
+                    Here you learn free tutorials in programming.
+                </td>
+            </tr>
+        </table>
+    </body>
+
+3. Using Hexadecimal code example:
+
+<body text="#ff00ff" bgcolor="#808080">
+        <h3>HTML Colors Application</h3>
+        <table bgcolor="#0000ff">
+            <tr>
+                <td>
+                    Hello YouTubers, welcome to software developer channel!<br />
+                    Here you learn free tutorials in programming.
+                </td>
+            </tr>
+        </table>
+    </body>
