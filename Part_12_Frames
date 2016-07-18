@@ -1,0 +1,99 @@
+One of the Web Page:
+
+        <style>
+            body { background-color: #ff00ff; }
+        </style>
+    </head>
+    <body><br />
+        <a href="http://www.cnn.com" target="_blank">CNN</a><br /><br />
+        <a href="http://www.bbc.com" target="_blank">BBC</a><br /><br />
+        <a href="http://www.softwrdevelopment.com" target="_blank">Developer</a>
+    </body>
+
+The second of the Web Page:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Frames Application</title>
+        <style>
+            body { background-color: #00ffff; }
+        </style>
+    </head>
+    <body>
+        <h3>HTML b Frame Application</h3>
+        <p>Welcome to software developer channel!</p>
+    </body>
+</html>
+
+Main Web Page:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Frames Application</title>
+    </head>
+    <frameset cols="100, *">
+        <frame src="a.html" />
+        <frame src="b.html" />
+    <body>
+        <h3>HTML Frames Application</h3>
+    </body>
+    </frameset>
+</html>
+
+a.html Web Page:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Frames Application</title>
+        <style>
+            body { background-color: #ff00ff; }
+        </style>
+    </head>
+    <body>
+        <h3>HTML a Frame Application</h3>
+    </body>
+</html>
+
+b.html Web Page:
+
+<style>
+            body { background-color: #00ffff; }
+        </style>
+    </head>
+    <body>
+        <h3>HTML b Frames Application</h3>
+    </body>
+
+c.html Web Page:
+
+<style>
+            body { background-color: #00ff00; }
+        </style>
+    </head>
+    <body>
+        <h3>HTML c Frame Application</h3>
+    </body>
+
+Main Web Page:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Frames Application</title>
+    </head>
+    <frameset rows="30%,40%,30%">
+            <frame name="top" src="a.html" />
+            <frame name="main" src="b.html" />
+            <frame name="bottom" src="c.html" />
+    <body>
+        <h3>HTML Frames Application</h3>
+    </body>
+        </frameset>
+</html>
