@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+     <title>HTML Formatting Application</title>
+    </head>
+    <body>
+        <div id="section" style="color:#ff00ff; background-color:#c0c0c0">
+        <p>This makes the text <b>formatted</b>.</p>
+        <p>This makes the text <i>italicized</i>.</p>
+        <p>This makes the text <u>underlined</u>.</p>
+        <p>This makes the text <strike>striked</strike>.</p>
+        </div>
+        <p>Grouping of text using <span style="color:green">span tag</span>, especially if you want to <span style="color:blue">format text</span>.</p>
+    </body>
+</htm
