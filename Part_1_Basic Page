@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Web page Application</title>
+    </head>
+    <body>
+        <center><h1>Hello youtubers</h1></center>
+        <h2>Welcome to video developer tube</h2><br />
+        <p>This tutorial we look at writing webpage.</p>
+        <p>This tutorial we look at writing webpage.</p>
+        <pre><p>This tutorial we look at writing webpage.</p></pre>
+    </body>
+</html>
