@@ -1,0 +1,39 @@
+Using Div to make Blocks:  
+
+ <!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Blocks Application</title>
+    </head>
+    <body>
+        <h3>HTML Blocks Application</h3>
+        <div style="color: #ff00ff">
+            <p>1st group: Some Premiership Teams</p>
+            <ul>
+                <li>Arsenal FC</li>
+                <li>Leicester FC</li>
+                <li>Manchester FC</li>
+                <li>Man United</li>
+                <li>Chelsea FC</li>
+            </ul>
+        </div>
+        <div style="color: #808080">
+            <p>2nd group: Some Food Types</p>
+            <ul>
+                <li>Burger</li>
+                <li>Cheese</li>
+                <li>Vegetables</li>
+                <li>Bread</li>
+                <li>Sandwich</li>
+            </ul>
+        </div>
+    </body>
+</html>
+
+Using Span to make Blocks:
+
+   <body>
+        <h3>HTML Blocks Application</h3>
+        <p>Hello <span style="color: #ff00ff">YouTubers</span> and welcome to <span style="color: #800080">software developer</span> channel.</p>
+    </body>
