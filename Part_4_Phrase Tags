@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML Phrase Tags Applicatiion</title>
+    </head>
+    <body>
+        <p>This sentence has an <em>emphasized text</em>.</p>
+        <p>This sentence has <mark>marked text</mark>.</p>
+        <p>This sentence has <acronym>XHML</acronym> acronym element.</p>
+        <p>This sentence has a <strong>strong text</strong>.</p>
+        <address>148 Jogoo Road, london, SE1 2QB</address>
+        <p>This sentence has a <samp>program output</samp>.</p>
+        <p>This is normal text, <code>HTML Phrase Tags Application</code> the rest of the sentence.</p>
+        <p>This materials are from <cite>Google Technology company</cite>.</p>
+        <p>This are some of the <dfn>special terms</dfn>.</p>
+        <p>This sentence is for <bdo>Text Direction</bdo>.</p>
+    </body>
+</html>
