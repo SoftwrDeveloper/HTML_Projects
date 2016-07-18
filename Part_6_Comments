@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <!-- document starts here -->
+    <html lang="en">
+    <head><!-- head starts -->
+        <title>HTML Comments</title>
+        <meta name="keywords" content="Tutorial, software developer">
+        <meta name="author" content="Amos Donkey">
+        <style>
+            /*
+            .section {
+               background-color: #c0c0c0; border: 2px solid #ff00ff;
+            }
+            */
+        </style>
+    </head><!-- head ends -->
+    <body>
+        <!-- Information to be found on web page -->
+        <div class="section">
+        <p>Hi YouTubers, and welcome!</p>
+            <p>The Software Developer Tube.</p>
+        <p>This lesson we look at comments.</p>
+        </div>
+    </body>
+        <!-- document ends here -->
+</html>
