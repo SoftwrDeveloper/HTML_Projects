@@ -1,0 +1,60 @@
+Layout Example using table:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Layouts Application</title>
+    </head
+    <body>
+        <table width="100%" border="0">
+            <tr>
+                <td align="center" colspan="100%" bgcolor="#c0c0c0"><h3>HTML Layouts Application</h3></td>
+            </tr>
+            <tr valign="top">
+                <td width="20" bgcolor="#cee3f6">
+                    <b>Topics</b><br />
+                    JavaScript<br />
+                    Java<br />
+                    HTML<br />
+                    CSS
+                </td>
+                <td bgcolor="#ffffff" width="200" height="150">
+                    The Introduction of the website...<br />
+                    Hello, YouTubers. Welcome to software developer channel. Learn free tutorials.
+                </td>
+            </tr>
+            <tr>
+                <td colspan="100" bgcolor="#c0c0c0">
+                    <center>
+                        <footer>Copyright &copy; 2016 softwaredeveloper.com</footer>
+                    </center>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+Layout Example using div containers:
+
+<body>
+        <div style="width:100%">
+                <div align="center" style="background-color:#c0c0c0; height:10%; width:100%"><h3>HTML Layouts Application</h3></div>
+                <div style="background-color:#cee3f6; float:left; width:20%">
+                    <div><b>Topics</b></div>
+                    JavaScript<br />
+                    Java<br />
+                    HTML<br />
+                    CSS
+                </div>
+                <div style="background-color:#ffffff"; width="200" height="100">
+                    The Introduction of the website...<br />
+                    Hello, YouTubers. Welcome to software developer channel. Learn free tutorials.
+                </div>
+                <div style="background-color:#c0c0c0; clear:both">
+                    <center>
+                        <footer>Copyright &copy; 2016 softwaredeveloper.com</footer>
+                    </center>
+                </div>
+        </div>
+    </body>
