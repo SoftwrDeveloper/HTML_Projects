@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML Image Links</title>
+    </head>
+    <body>
+        <h3>Click the link below</h3>
+        <a href="http://softwrdevelopment.com/" target="_blank" >Software Developer</a><br /><br />
+        <a href="C:\Users\AAA\Desktop\banlogo/logotT12.jpg" target="_blank" alt="Software Developer" width="70" height="70">YouTube Logo</a>
+        <br /><br />
+        <a href="http://softwrdevelopment.com/"><img src="C:\Users\AAA\Desktop\banlogo/logotT12.jpg" title="Tube Logo" width="70" height="70">
+    </body>
+</html>
