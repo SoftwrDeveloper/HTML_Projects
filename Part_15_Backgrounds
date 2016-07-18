@@ -1,0 +1,50 @@
+A. The Color Backgrounds:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Backgrounds Application</title>
+    </head>
+    <body>
+        <h3>HTML Backgrounds Application</h3>
+        <table bgcolor="#808080" width="100%">
+            <tr>
+                <td>
+                    This is background A<br />
+                    This color is grey<br />
+                    Here we shall talk about HTML
+                </td>
+            </tr>
+        </table>
+        <table bgcolor="#ff00ff" width="100%">
+            <tr>
+                <td>
+                    This is background B<br />
+                    This color is pink<br />
+                    Here we shall talk about CSS
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
+
+B. The Image Backgrounds:
+
+<body>
+        <h3>HTML Backgrounds Application</h3>
+        <table background="C:\Users\AAA\Desktop\HTML_docs/image2.jpg" width="100%" height="100%">
+            <tr>
+                <td>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3><br />
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3><br />
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                    <h3>Hey YouTubers, welcome to software developer channel!</h3>
+                </td>
+            </tr>
+        </table>
+    </body>
