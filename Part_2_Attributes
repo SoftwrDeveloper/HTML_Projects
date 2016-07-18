@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+     <title>HTML Attributes Application</title>
+  <style>
+  .main {color: red; background-color: #000000;}
+  </style>
+    </head>
+    <body>
+ <h2>HTML Attributes Application</h2>
+ <div class="main">
+ <p style="font-family: arial; color:#ff00ff; background-color: #c0c0c0">Welcome to Software Developer Tube!</p><br />
+ <p>Welcome to Software Developer Tube!</p></div>
+ <img src="logotT.jpg" width="100" height="100">
+    </body>
+</html>
