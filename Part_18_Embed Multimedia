@@ -1,0 +1,22 @@
+1st Example using embed & img tags:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Embed Application</title>
+    </head>
+    <body>
+        <h3>HTML Embed Application</h3>
+        <embed src="introTrailer5.mp4" width="300" height="200"></embed>
+    <img src="image.jpg" width="300" height="200"></a>
+    </body>
+</html>
+
+2nd Example using iframe tags:
+
+     <body>
+        <h3>HTML Embed Application</h3>
+        <iframe src="Ringing_Ambient_Background.mp3" frameborder="0" width="0" height="0">       </iframe>
+        <iframe src="introTrailer5.mp4" frameborder="0" width="300" height="200"></iframe>
+    </body>
