@@ -1,0 +1,46 @@
+1. SettingFontColor Example:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Fonts Application</title>
+    </head>
+    <body>
+        <font face="Calibri" size="4">Hello YouTubers!</font><br />
+        <font face="PWPerspective" size="4">Hello YouTubers!</font><br />
+        <font face="Stencil Std" size="4">Hello YouTubers!</font>
+    </body>
+</html>
+
+2. SetFontSize Example:
+
+<body>
+        <h3>HTML Fonts Application</h3>
+        <font size="1">Hello YouTubers!</font><br />
+        <font size="2">Hello YouTubers!</font><br />
+        <font size="3">Hello YouTubers!</font><br />
+        <font size="4">Hello YouTubers!</font><br />
+        <font size="5">Hello YouTubers!</font><br />
+        <font size="6">Hello YouTubers!</font>
+    </body>
+
+3. RelativeFontSize Example:
+
+    <body>
+        <h3>HTML Fonts Application</h3>
+        <font size="-1">Hello YouTubers!</font><br />
+        <font size="+1">Hello YouTubers!</font><br />
+        <font size="-2">Hello YouTubers!</font><br />
+        <font size="+2">Hello YouTubers!</font><br />
+        <font size="-3">Hello YouTubers!</font><br />
+        <font size="+3">Hello YouTubers!</font>
+    </body>
+
+4. SettingFontFace Example:
+
+    <body>
+        <font face="Calibri" size="4">Hello YouTubers!</font><br />
+        <font face="PWPerspective" size="4">Hello YouTubers!</font><br />
+        <font face="Stencil Std" size="4">Hello YouTubers!</font>
+    </body>
