@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Marquee Application</title>
+    </head
+    <body>
+        <h3>HTML Marquee Application</h3>
+        <marquee direction="right" width="100%">
+            Hello YouTubers, welcome to software developer channel!
+        </marquee>
+    </body>
+</html>
