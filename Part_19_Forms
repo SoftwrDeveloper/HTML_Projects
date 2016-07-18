@@ -1,0 +1,62 @@
+1st Example using text, password, submit & reset:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Forms Application</title>
+    </head>
+    <body>
+        <h3>HTML Forms Application</h3>
+        <form>
+            College Name: <input type="text" name="college_name" /><br /><br />
+            Student name: <input type="text" name="student_name"><br /><br />
+            Student ID: <input type="text" name="std_id" /><br /><br />
+            Std Password: <input type="password" name="passwd" />
+        </form><br />
+        <form>
+            <input type="submit" name="submit" />
+            <input type="reset" name="reset" />
+        </form>
+    </body>
+</html>
+
+2nd Example using textArea & checkBox:
+ 
+    <body>
+        <h3>HTML Forms Application</h3>
+        <form>
+            Introduction: <br />
+            <textarea rows="4" cols="60" name="introduction"></textarea>
+        </form><br />
+        <form>
+            <input type="checkbox" name="student_name" />Student Name
+            <input type="checkbox" name="subject_name" />Subject Name
+        </form><br />
+        <form>
+            <input type="submit" name="submit" />
+            <input type="reset" name="reset" />
+        </form>
+    </body>
+
+3rd Example using drop down box & radio buttons:
+
+<body>
+        <h3>HTML Forms Application</h3>
+        <form>
+            <select name="dropdown">
+                <option value="Student Name" selected>Student Name</option>
+                <option value="Subject Name">Subject Name</option>
+                <option value="College Name">College Name</option>
+            </select>
+        </form><br />
+        <form>
+            <input type="radio" value="Student Name">Student Name
+            <input type="radio" value="Subject Name">Subject Name
+            <input type="radio" value="College Name">College Name
+        </form><br />
+        <form>
+        <input type="submit" name="submit"/>
+        <input type="reset" name="reset" />
+        </form>
+    </body>
