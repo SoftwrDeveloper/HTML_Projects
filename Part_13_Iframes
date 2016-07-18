@@ -1,0 +1,34 @@
+The web page to be inserted: a.html
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Frames Application</title>
+        <style>
+            body { background-color: #808080; }
+        </style>
+    </head>
+    <body><br />
+        <a href="http://www.cnn.com" target="_blank">CNN</a><br /><br />
+        <a href="http://www.bbc.com" target="_blank">BBC</a><br /><br />
+        <a href="http://www.softwrdevelopment.com" target="_blank">Developer</a>
+    </body>
+</html>
+
+The web page where a.html is to be inserted using iframe:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Iframe Application</title>
+    </head>
+    <body>
+        <h3>HTML Iframe Application</h3>
+        <p>You can be able to insert a separate web page, into another.</p>
+        <iframe src="a.html" width="800" height="400">Sorry your browser does not support inline frames.</iframe>
+        <p>Hey YouTubers, and welcome to software developer channel!</p>
+        <p>There will be some cool tutorials coming up.</p>
+    </body>
+</html>
