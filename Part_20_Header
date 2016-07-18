@@ -1,0 +1,38 @@
+The CSS file: main.css
+
+.main {
+    background-color: #808080;
+}
+h3 {
+    text-align: center;
+}
+p {
+    font-family: sans-serif; font-size: 14px;
+}
+
+The JavaScript file: main.css
+
+function HeyYouTube() {
+    alert("Hey, YouTube!");
+}
+
+The main web page with the two files linked:
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+    <head>
+        <title>HTML Header Application</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <script type="text/javascript" src="main.js"></script>
+    </head
+    <body>
+        <div class="main">
+            <h3>HTML Header Application</h3>
+            <p>Hello YouTubers, and welcome to software developer channel!</p>
+            <p>This channel offers free programming tutorials</p>
+            <p><Seat back, relax and enjoy the tutorial></p>
+        </div>
+        <input type="button" onclick="HeyYouTube();" value="PRESS" />  
+    </body>
+</html>
