@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML Text Links</title>
+    </head>
+    <body alink="#ff00ff" vlink="#ff0000">
+        <h3>Click the link below</h3>
+        <a href="C:\Users\AAA\Desktop\website_one - for testing/index.html" target="_blank">opened in a new window</a><br />
+        <a href="C:\Users\AAA\Desktop\website_one - for testing/index.html" target="_self">opened in the same frame</a><br />
+        <a href="C:\Users\AAA\Desktop\website_one - for testing/index.html" target="_parent">opened in a parent frame</a><br />
+        <a href="C:\Users\AAA\Desktop\website_one - for testing/index.html" target="_top">opened in a named targetframe</a>
+        <br /><br />
+        <a href="C:\Users\AAA\Desktop\website_one - for testing/hyperlink.pdf" target="_blank">PDF Hyperlink</a>
+    </body>
+</html>
