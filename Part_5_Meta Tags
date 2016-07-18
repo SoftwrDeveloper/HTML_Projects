@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML META TAGS</title>
+        <meta name="keywords" content="Tutorial, software developer" />
+        <meta name="description" content="Tutorial on HTML" />
+        <meta name="revised" content="Part 5 Tutorial, 9/4/2016" />
+        <meta http-equiv="refresh" content="20" />
+        <meta name="author" content="Amos Donkey" />
+    </head>
+    <body>
+        <p>Hi YouTubers, and welcome!</p>
+    </body>
+</html>
