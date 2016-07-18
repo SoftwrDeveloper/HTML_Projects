@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <title>HTML Lists</title>
+    </head>
+    <body>
+        <ul type="square">
+            <li>Bread</li>
+            <li>Burger</li>
+            <li>Cheese</li>
+            <li>vegetables</li>
+        </ul>
+        <ol>
+            <li>Bread</li>
+            <li>Burger</li>
+            <li>Cheese</li>
+            <li>vegetables</li>
+        </ol>
+        <dl>
+            <dt><b>Food</b></dt>
+            <dd>Bread, burger, cheese, vegetables</dd>
+            <dt><b>Drinks</b></dt>
+            <dd>Tea, coffee, juice, porridge</dd>
+        </dl>
+    </body>
+</html>
